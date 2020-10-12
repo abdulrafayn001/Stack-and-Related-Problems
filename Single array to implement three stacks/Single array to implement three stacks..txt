@@ -1,0 +1,15 @@
+Single array to implement three stacks
+
+1- First of all decide how big each stack will be.
+	i.e:
+	    If the size of each stack is 6 then size of array will be 18
+2- Define the Staring point of each stack in array
+
+3- For push(), define what value to be pushed and at which stack
+	i.e: push(int StackNo, Value)
+
+4- For pop(), give argument from which stack to pop
+	i.e: pop(int StackNo)
+
+
+
