@@ -1,0 +1,6 @@
+5
+ab aa aa bcd ab
+tom jerry jerry tom
+tom jerry tom jerry tom
+A B A B B A B A A
+A B A B B A B A A B A B B A B A
